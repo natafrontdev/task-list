@@ -3,7 +3,11 @@ export default class TaskstoreService {
   _apiDeveloper = '?developer=Natalia'
 
   getResource = async (url) => {
-    const res = await fetch(`${this._apiBase}${url}`)
+    const res = await fetch(`${this._apiBase}${url}`, {
+      cache: 'no-cache',
+      redirect: 'follow',
+      referrer: 'no-referrer'      
+    })
 
     if (!res.ok) {
       throw new Error(`Could not fetch ${url}` +
