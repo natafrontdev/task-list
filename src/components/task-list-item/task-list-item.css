@@ -1,9 +1,0 @@
-.card {
-  margin: 15px 0;
-}
-.card-body {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  min-height: 220px
-}
