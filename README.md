@@ -4,7 +4,7 @@ Example Task List App
 
 ## Demo
 
-https://natafrontdev.github.io/task-list/
+https://nata-task-list.000webhostapp.com/task-list/
 
 ## Installation
 
