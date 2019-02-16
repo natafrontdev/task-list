@@ -1,6 +1,6 @@
 # Task List App
 
-Пример приложения-задачника
+Example Task List App
 
 ## Demo
 
