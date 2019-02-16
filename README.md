@@ -18,3 +18,9 @@ $ npm install
 ```
 $ npm run start
 ```
+## Test user
+
+```
+login: admin
+password: 123
+```
