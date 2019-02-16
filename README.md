@@ -9,7 +9,7 @@ https://natafrontdev.github.io/task-list/
 ## Installation
 
 ```
-$ git clone https://github.com/nataliababenko/task-list.git
+$ git clone https://github.com/natafrontdev/task-list.git
 $ cd task-list
 $ npm install
 ```
